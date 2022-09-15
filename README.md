@@ -9,3 +9,12 @@ Foram levantadas 4 hipóteses da área de negócio
 #### H2 - Imóveis do bairro Vila Madalena, são em média, 30% mais baratos que o bairro de Moema.
 #### H3 - Apartamentos de 100m no bairro do Brooklin, são em média, 50% mais baratos que na Vila Olímpia
 #### H4 - Apartamentos de 3 quartos no bairro de pinheiros, são em média, 25% mais caros que no bairro do Morumbi.
+
+# Conclusão dos insights
+#### H1 - Imóveis com piscina são, em média 56,72 mais caros
+
+#### H2 - Imóveis na Vila Madalena são, em média, 31.59% mais baratos..
+
+#### H3 - Imóveis de mais de 100m2 no bairro do Brooklin são, em média, 63.31% mais baratos...
+
+#### H4 - Apartamentos de 3 quartos em Pinheiros são, em média, 135.04% mais caros....
