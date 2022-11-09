@@ -1,5 +1,5 @@
 # Analytics São Paulo Real Estate Sale & Rent
-![alt text](https://p7z2w8n8.rocketcdn.me/wp-content/uploads/2021/03/comprar-casa-ou-alugar-pros-e-contras-das-duas-alternativas.jpg)
+![alt text](https://www.jalucrei.com.br/wp-content/uploads/2016/11/imoveiss.jpeg)
 
 Um cientista de dados coleta, analisa e interpreta uma grande quantidade de dados para descobrir padrões e insights, fazer previsões e criar planos acionáveis. 
 Nas últimas semanas venho estudando sobre a ferramenta Streamlit e como deixar as minhas análises disponíveis e escaláveis para o time de negócio.
