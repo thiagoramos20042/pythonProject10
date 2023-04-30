@@ -4,6 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
+import streamlit as st
 from PIL import Image
 
 img=Image.open('venda-de-imoveis-usados-cai-em-dezembro-zappro.jpg')
