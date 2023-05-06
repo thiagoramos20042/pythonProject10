@@ -6,7 +6,6 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 
-
 img=Image.open('venda-de-imoveis-usados-cai-em-dezembro-zappro.jpg')
 st.image(img,width=600)
 st.set_option('deprecation.showPyplotGlobalUse', False)
